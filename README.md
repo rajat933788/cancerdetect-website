@@ -60,7 +60,7 @@ This project utilizes a trained machine learning model to predict the probabilit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shinkhal/Cancer-Prediction.git
+   git clone https://github.com/rajat933788/cancerdetect-website.git
    cd Cancer-Prediction
    ```
 
@@ -110,7 +110,7 @@ This tool is intended for **educational purposes only** and is **not** a substit
 
 For any questions or suggestions:
 - GitHub Issues
-- [LinkedIn](https://www.linkedin.com/in/shinkhal-sinha/) (Add your profile here!)
+- [LinkedIn](https://www.linkedin.com/in/rajatt27/) (Add your profile here!)
 
 ---
 
